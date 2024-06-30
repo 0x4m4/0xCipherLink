@@ -108,4 +108,4 @@ For any issues, suggestions, or contributions, feel free to reach out or create 
 
 Thank you for using **0xCipherLink**. Secure your file transfers with confidence!
 
-- **0x4m4**
+- **contact@0x4m4.com**
