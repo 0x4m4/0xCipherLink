@@ -94,7 +94,7 @@ To run 0xCipherLink, you need to have the following installed:
 
 ### Screenshot
 
-![Alt text](/screenshot.jpg)
+![Alt text](/screenshot/screenshot.jpg)
 
 ### Disclaimer
 
