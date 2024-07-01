@@ -1,4 +1,4 @@
-# 0xCipherLink by 0x4m4
+# 0xCipherLink
 
 ## Secure File Transfer Tool
 
